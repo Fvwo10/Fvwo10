@@ -1,7 +1,7 @@
 ## Hi there I am George
 # 💫 About Me:
-#🎓- Studying Computing & IT Bsc
-#🖥️-Student learning: Cybersecurity, Software Development, Data Science & Machine Learning-🤖
+#🎓- Studying Computing & IT Bsc    
+#🖥️-Student learning: Cybersecurity, Software Development, Data Science & Machine Learning-🤖  
 
 
 # 💻 Tech Stack:
